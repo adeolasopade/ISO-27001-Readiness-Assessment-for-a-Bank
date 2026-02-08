@@ -1,5 +1,5 @@
 # ISO 27001 Readiness Assessment for a Bank
-This project draws on real consulting work, with all company details fully anonymised.
+*This project draws on real consulting work, with all company details fully anonymised.*
 
 ---
 
