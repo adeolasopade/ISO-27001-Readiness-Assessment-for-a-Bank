@@ -1,9 +1,9 @@
 # ISO 27001 Readiness Assessment for a Bank
-*This project is inspired by real-world engagements; however, all documents have been independently recreated using synthetic data to reflect practical scenarios. No client materials are reproduced. All templates are either self-developed or properly licensed and are not proprietary to any organisation.*
+*This project reflects the type of work I support in real-world engagements. The documentation consolidates insights from that experience alongside my ongoing self-directed study. All materials use synthetic data—no client information is reproduced—and the templates are either self-developed or properly licensed and are not proprietary to any organisation.*
 
 ---
 
-Led a gap [assessment](https://docs.google.com/spreadsheets/d/1M5Jo-GpAQE13D6ESgSUPGSFZnTto4udJ/edit?usp=sharing&ouid=101134501969411208830&rtpof=true&sd=true) for Fruition Bank to evaluate security controls and create a roadmap to ISO 27001 certification, ensuring the protection of critical financial information.
+Participated in a gap [assessment](https://docs.google.com/spreadsheets/d/1M5Jo-GpAQE13D6ESgSUPGSFZnTto4udJ/edit?usp=sharing&ouid=101134501969411208830&rtpof=true&sd=true) for Fruition Bank to evaluate security controls and create a roadmap to ISO 27001 certification, ensuring the protection of critical financial information.
 
 ---
 
